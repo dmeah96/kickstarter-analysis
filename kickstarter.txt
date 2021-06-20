@@ -1,0 +1,6 @@
+#Overview of Project# 
+#### This was an analysis of correlations. The correlations of months, the theater category, and outcome success. Then, we also did outcome success, play subcategory, and range of money. ####
+# Analysis and Challenges # 
+#### I performed an analysis of percentage for outcomes on plays that were canceled, successful, or failed based on their money in several ranges. ####
+# Results:# 
+#### I can conclude that May is the best month to launch a theater play. 25000-29000 is the best money range for a successful play. However, there are limitations to this. Many failed plays were in every dollar range as well. Maybe, narrowing down geographical area could help see better correlations. Also, correlations are not causations in statistics. ####
